@@ -1,0 +1,10 @@
+{
+  "name": "Campus OS Student Portal",
+  "description": "Your Campus. One OS. A student-first operating system with Apple Wallet-style stacked cards, live QR attendance, interactive timetable, library, analytics, and offline PWA capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
